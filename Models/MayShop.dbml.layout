@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12, 15.75" name="MayShop">
+  <DataContextMoniker Name="/MayShopDataContext" />
+  <nestedChildShapes>
+    <classShape Id="44d425fc-bbc2-43af-9611-c6dbb007a217" absoluteBounds="0.75, 7.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/MayShopDataContext/Brand" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b4bf79be-a29c-42bd-9453-df3f17be1073" absoluteBounds="0.765, 8.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8c40b4e3-c79d-4653-af02-9861d200c902" absoluteBounds="8.75, 10.375, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/MayShopDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9f70930-335b-4bf1-b4f1-d11a0b9fb41b" absoluteBounds="8.765, 10.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6ccf84d6-5757-4ef1-9633-4c048fa61d6a" absoluteBounds="6.5, 2.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/MayShopDataContext/Cart" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a83a042-ce6f-45b7-8807-8fa613e94aba" absoluteBounds="6.515, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f58f2836-e74b-45f2-99d2-95cf766994de" absoluteBounds="9.25, 4.125, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/MayShopDataContext/CartItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="445fb349-e438-49f6-a7a0-b6b9cc6eed9e" absoluteBounds="9.265, 4.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="29455ea6-4eb2-44d2-ba67-5cbed8c1e076" absoluteBounds="0.75, 5.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/MayShopDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8ae93834-1de8-48cc-8dea-60d585c964cf" absoluteBounds="0.765, 6.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="911fd94e-b6bd-48d1-9aa2-7618e269222d" absoluteBounds="9.75, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/MayShopDataContext/Contact" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eebea1b2-7a30-49f9-a56b-d41a7dfba5aa" absoluteBounds="9.765, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ba0ff4e3-d03d-4482-a26a-b8369a5cc4b7" absoluteBounds="3.75, 2.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/MayShopDataContext/Customer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ff1ac549-e5d3-4d1f-8ac5-7b5c567dac77" absoluteBounds="3.765, 2.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2a3ea062-b38f-4fb8-a59f-41edbeb2ff57" absoluteBounds="6.25, 13.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/MayShopDataContext/FeedBack" />
+      <nestedChildShapes>
+        <elementListCompartment Id="384f16b3-7e97-4889-8ba5-df7c27145e30" absoluteBounds="6.265, 13.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a48dcafb-3561-4f30-b2c1-c45fca86b480" absoluteBounds="6.25, 6.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/MayShopDataContext/Galery" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3ceb4f19-9a4c-474f-a64a-0afe6014743f" absoluteBounds="6.265, 6.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="14c94979-59d1-4bfd-b1cb-c19efea1bf83" absoluteBounds="9.25, 7.375, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/MayShopDataContext/LoveItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="43b70f3b-7577-4369-b139-75593e71deff" absoluteBounds="9.265, 7.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f1d055d6-0d2e-46ae-9f53-3ed06def308d" absoluteBounds="6.5, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/MayShopDataContext/LoveProduct" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a71ac714-5c88-4815-9cfd-a756565fc8c6" absoluteBounds="6.515, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d735b43a-f84f-48ff-b97e-34ba99cc5f04" absoluteBounds="3.5, 11.375, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/MayShopDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="86598bed-7d68-45ad-8380-a363d834c80f" absoluteBounds="3.515, 11.835, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b8c3b494-eba2-47cd-b4e5-ad3515bb5327" absoluteBounds="6.25, 8.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/MayShopDataContext/OrderDetail" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8762d140-4c29-4800-9c63-ae60db8e2f6b" absoluteBounds="6.265, 8.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" absoluteBounds="3.5, 6.875, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/MayShopDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="89ed47fa-11dd-41e7-b3a7-145a21e639cc" absoluteBounds="3.515, 7.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ba8db18c-3953-4136-ab8c-500e6ed35dae" absoluteBounds="0.75, 9.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/MayShopDataContext/Size" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ad6f5f3-097d-4bae-8c1e-c8e977e3361c" absoluteBounds="0.765, 10.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.5 : 3.4800439453125); (8.79166666666667 : 3.4800439453125 : JumpStart); (8.95833333333333 : 3.4800439453125 : JumpEnd); (9.46875 : 3.4800439453125); (9.46875 : 4.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Cart/Cart_CartItem" />
+      <nodes>
+        <classShapeMoniker Id="6ccf84d6-5757-4ef1-9633-4c048fa61d6a" />
+        <classShapeMoniker Id="f58f2836-e74b-45f2-99d2-95cf766994de" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 3.34699625651042); (6.5 : 3.34699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Customer/Customer_Cart" />
+      <nodes>
+        <classShapeMoniker Id="ba0ff4e3-d03d-4482-a26a-b8369a5cc4b7" />
+        <classShapeMoniker Id="6ccf84d6-5757-4ef1-9633-4c048fa61d6a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 1.94399251302083); (8.875 : 2.31899251302083); (8.875 : 8.35659912109375); (9.25 : 8.35659912109375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/LoveProduct/LoveProduct_LoveItem" />
+      <nodes>
+        <classShapeMoniker Id="f1d055d6-0d2e-46ae-9f53-3ed06def308d" />
+        <classShapeMoniker Id="14c94979-59d1-4bfd-b1cb-c19efea1bf83" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.75 : 2.125); (4.75 : 1.34699625651042); (6.5 : 1.34699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Customer/Customer_LoveProduct" />
+      <nodes>
+        <classShapeMoniker Id="ba0ff4e3-d03d-4482-a26a-b8369a5cc4b7" />
+        <classShapeMoniker Id="f1d055d6-0d2e-46ae-9f53-3ed06def308d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.75153746153846 : 4.47280110677083); (3.37653746153846 : 4.84780110677083); (3.125 : 4.84780110677083); (3.125 : 11); (3.5 : 11.375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MayShopDataContext/Customer/Customer_Order" />
+      <nodes>
+        <classShapeMoniker Id="ba0ff4e3-d03d-4482-a26a-b8369a5cc4b7" />
+        <classShapeMoniker Id="d735b43a-f84f-48ff-b97e-34ba99cc5f04" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 12.3565991210937); (5.79166666666667 : 12.3565991210937 : JumpStart); (5.95833333333333 : 12.3565991210937 : JumpEnd); (7.25 : 12.3565991210937); (7.25 : 10.0785953776042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Order/Order_OrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="d735b43a-f84f-48ff-b97e-34ba99cc5f04" />
+        <classShapeMoniker Id="b8c3b494-eba2-47cd-b4e5-ad3515bb5327" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.59375 : 6.875); (3.59375 : 5.36140055338542); (8.79166666666667 : 5.36140055338542 : JumpStart); (8.95833333333333 : 5.36140055338542 : JumpEnd); (9.25 : 5.36140055338542)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Product/Product_CartItem" />
+      <nodes>
+        <classShapeMoniker Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" />
+        <classShapeMoniker Id="f58f2836-e74b-45f2-99d2-95cf766994de" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9.79970540364583); (5.875 : 10.1747054036458); (5.875 : 14.4527498372396); (6.25 : 14.4527498372396)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Product/Product_FeedBack" />
+      <nodes>
+        <classShapeMoniker Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" />
+        <classShapeMoniker Id="2a3ea062-b38f-4fb8-a59f-41edbeb2ff57" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.25564697265625); (6.25 : 7.25564697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Product/Product_Galery" />
+      <nodes>
+        <classShapeMoniker Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" />
+        <classShapeMoniker Id="a48dcafb-3561-4f30-b2c1-c45fca86b480" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 7.96519653320313); (8.79166666666667 : 7.96519653320312 : JumpStart); (8.95833333333333 : 7.96519653320313 : JumpEnd); (9.25 : 7.96519653320313)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Product/Product_LoveItem" />
+      <nodes>
+        <classShapeMoniker Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" />
+        <classShapeMoniker Id="14c94979-59d1-4bfd-b1cb-c19efea1bf83" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9.11860020182292); (6.25 : 9.11860020182292)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Product/Product_OrderDetail" />
+      <nodes>
+        <classShapeMoniker Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" />
+        <classShapeMoniker Id="b8c3b494-eba2-47cd-b4e5-ad3515bb5327" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 8.34699625651042); (3.04166666666667 : 8.34699625651042 : JumpStart); (3.20833333333333 : 8.34699625651042 : JumpEnd); (3.5 : 8.34699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Brand/Brand_Product" />
+      <nodes>
+        <classShapeMoniker Id="44d425fc-bbc2-43af-9611-c6dbb007a217" />
+        <classShapeMoniker Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.2812475); (3.04166666666667 : 6.2812475 : JumpStart); (3.20833333333333 : 6.2812475 : JumpEnd); (3.51041666666667 : 6.2812475 : JumpStart); (3.67708333333333 : 6.2812475 : JumpEnd); (4.5781275 : 6.2812475); (4.5781275 : 6.875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Category/Category_Product" />
+      <nodes>
+        <classShapeMoniker Id="29455ea6-4eb2-44d2-ba67-5cbed8c1e076" />
+        <classShapeMoniker Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 10.4031014583333); (3.04166666666667 : 10.4031014583333 : JumpStart); (3.20833333333333 : 10.4031014583333 : JumpEnd); (4.4687475 : 10.4031014583333); (4.4687475 : 9.79970540364583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MayShopDataContext/Size/Size_Product" />
+      <nodes>
+        <classShapeMoniker Id="ba8db18c-3953-4136-ab8c-500e6ed35dae" />
+        <classShapeMoniker Id="e3d9f594-bbe4-4b12-883d-56c1b5decf55" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
